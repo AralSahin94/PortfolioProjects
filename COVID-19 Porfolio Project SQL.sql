@@ -1,5 +1,6 @@
 -- Link to the dataset: https://ourworldindata.org/covid-deaths
 
+-- covid_death and covid_vac tables are both created from the main dataset. covid_death table includes case, infection and death related columns while covid_vac includes vaccinations.
 SELECT *
 FROM PortfolioProject..covid_death
 ORDER BY 3,4
