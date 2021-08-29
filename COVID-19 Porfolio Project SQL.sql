@@ -1,3 +1,5 @@
+-- Link to the dataset: https://ourworldindata.org/covid-deaths
+
 SELECT *
 FROM PortfolioProject..covid_death
 ORDER BY 3,4
