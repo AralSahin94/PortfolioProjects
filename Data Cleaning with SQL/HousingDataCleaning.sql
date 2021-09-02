@@ -1,5 +1,5 @@
 /*
- Data Cleaning in SQL (CONVERT, PARSENAME, CASE STATEMENT, CTE, DROP, ...)
+ Data Cleaning in SQL (CONVERT, PARSENAME, JOIN, CASE STATEMENT, CTE, DROP, ...)
  */ 
 
  SELECT * 
